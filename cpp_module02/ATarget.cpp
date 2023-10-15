@@ -1,7 +1,6 @@
 #include "ATarget.hpp"
 
-ATarget::ATarget(std::string type)
-{
+ATarget::ATarget(std::string type) {
     _type = type;
 }
 
